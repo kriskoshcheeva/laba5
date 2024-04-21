@@ -16,7 +16,7 @@ footer {
     padding-bottom: 3px;
     padding-left:  30px;
     background: #444;
-    color: white;
+    color: red;
 }
 a.foo:hover {
   text-decoration-color: black;
